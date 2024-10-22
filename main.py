@@ -517,8 +517,8 @@ beijing_time = utc_time + timedelta(hours=8)
 # 格式化为所需的格式
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
-about_video1=""
-about_video2=""
+about_video1="https://raw.kkgithub.com/gcqi1976/2022/main/d.mp4"
+about_video2="https://raw.kkgithub.com/gcqi1976/2022/main/d.mp4"
 version=formatted_time+","+about_video1
 about="关于本源,"+about_video2
 # 瘦身版
