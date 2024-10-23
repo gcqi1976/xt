@@ -522,7 +522,7 @@ version=formatted_time+","+about_video1
 about="关于本源,"+about_video2
 
 # 瘦身版
-all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
+all_lines_simple =  ["更新时间,#genre#"] + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
