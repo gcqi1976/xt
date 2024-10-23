@@ -509,7 +509,17 @@ for whitelist_line in whitelist_auto_lines:
             response_time = 60000  # 单位毫秒，转换失败给个60秒
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
+# 获取当前的 UTC 时间
+utc_time = datetime.now(timezone.utc)
+# 北京时间
+beijing_time = utc_time + timedelta(hours=8)
+# 格式化为所需的格式
+formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
+about_video1="https://gitee.com/gcqi/tvt/raw/master/%E6%B5%B7%E9%98%94%E4%B8%96%E7%95%8C/d.mp4"
+about_video2="https://gitee.com/gcqi/tvt/raw/master/%E6%B5%B7%E9%98%94%E4%B8%96%E7%95%8C/d.mp4"
+version=formatted_time+","+about_video1
+about="关于本源,"+about_video2
 
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
