@@ -526,13 +526,11 @@ all_lines_simple =  ["更新时间,#genre#"] + ['\n'] +\
              ["💓浙江频道,#genre#"] + sort_data(zj_dictionary,set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
              ["💓央视频道,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
              ["💓卫视频道,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
-             ["💓港澳台频道,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
-             ["💓电视剧🔁,#genre#"] + read_txt_to_array('主频道/♪电视剧.txt') + ['\n'] + \
+             ["💓电视剧频道,#genre#"] + sort_data(dsj_dictionary,set(correct_name_data(corrections_name,dsj_lines))) + ['\n'] + \
              ["💓电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
-             ["💓儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["💓咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
-             ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
-             ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
+             ["💓动画频道,#genre#"] + sort_data(dhp_dictionary,set(correct_name_data(corrections_name,dhp_lines)))+ ['\n'] + \
+             ["💓戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
+             ["💓音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
              ["💓体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n']
 
 # 合并所有对象中的行文本（去重，排序后拼接）
