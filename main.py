@@ -530,7 +530,7 @@ all_lines_simple =  ["更新时间,#genre#"] + ['\n'] +\
              ["💓电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["💓动画频道,#genre#"] + sort_data(dhp_dictionary,set(correct_name_data(corrections_name,dhp_lines)))+ ['\n'] + \
              ["💓戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
-             ["💓音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
+             ["💓音乐频道,#genre#"] + sorted(set(correct_name_data(corrections_name,mtv_lines))) + ['\n'] + \
              ["💓体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n']
 
 # 合并所有对象中的行文本（去重，排序后拼接）
