@@ -78,24 +78,7 @@
 
 
 💓央视频道,#genre#
-CCTV-01,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-02,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-03,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-04,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-05,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-06,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-07,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-08,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-09,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
-CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
+
 CCTV-01,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV-02,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
 CCTV-03,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
