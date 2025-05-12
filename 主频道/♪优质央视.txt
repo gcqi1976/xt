@@ -16,6 +16,8 @@ CCTV14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a4aca&tk=6949f8ce7202
 CCTV15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0ee2a7&tk=6949f8ce7202
 CCTV16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dd9d4f&tk=6949f8ce7202
 CCTV17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfb0d&tk=6949f8ce7202
+
+
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
