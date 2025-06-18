@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250618 07:53:18,url
+20250619 07:53:45,url
 
 
 freetv_other,#genre#
@@ -20,7 +20,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-2.ctv
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
-[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-6.m3u8
 [BD]明珠,https://stream1.freetv.fun/ming-zhu-11.ctv
 [BD]明珠,https://stream1.freetv.fun/ming-zhu-3.ctv
 [BD]星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
@@ -57,7 +56,6 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
-中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 乌海新闻综合,https://stream1.freetv.fun/wu-hai-xin-wen-zong-he-4.m3u8
@@ -76,6 +74,7 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-2.m3u8
 兰考新闻综合频道,https://stream1.freetv.fun/lan-kao-xin-wen-zong-he-1.m3u8
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
+刘德华,https://stream1.freetv.fun/liu-de-hua-6.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-1.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-10.ctv
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-3.m3u8
@@ -288,7 +287,6 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-6.ctv
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-9.ctv
 泌阳新闻综合,https://stream1.freetv.fun/mi-yang-xin-wen-zong-he-2.m3u8
-洪金宝,https://stream1.freetv.fun/hong-jin-bao-2.ctv
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-2.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-2.m3u8
@@ -320,7 +318,6 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 浙江经济生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-15.ctv
 浙江经济生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-4.ctv
 浙江经济生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-5.ctv
-浙江经济生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-6.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-10.m3u8
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-3.ctv
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-4.m3u8
