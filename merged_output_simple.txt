@@ -2,29 +2,29 @@
 
 
 💓浙江频道,#genre#
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
 
 💓央视频道,#genre#
@@ -797,8 +797,8 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 💓电视剧频道,#genre#
 庆余年,http://iptv.jxpan.vip:18888/aio/huya/11352960
-倚天屠龙记,http://iptv.jxpan.vip:18888/aio/huya/11342403
 倚天屠龙记,http://iptv.jxpan.vip:18888/aio/huya/23734246
+倚天屠龙记,http://iptv.jxpan.vip:18888/aio/huya/11342403
 三国演义,http://iptv.jxpan.vip:18888/aio/huya/11602081
 仙剑奇侠传,http://43.138.0.72:35455/yy/1382749903
 大时代,http://iptv.jxpan.vip:18888/aio/huya/23865161
@@ -806,6 +806,7 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 欢乐颂,http://43.138.0.72:35455/yy/1382735624
 灌篮高手,http://43.138.0.72:35455/yy/1382735626
 大唐双龙传,http://iptv.jxpan.vip:18888/aio/huya/29465850
+剧集_庆余年,http://www.douzhicloud.site:35455/huya/11352960
 亮剑,http://iptv.jxpan.vip:18888/aio/huya/30080238
 伪装者,http://43.138.0.72:35455/yy/1354936244
 使徒行者,http://iptv.jxpan.vip:18888/aio/huya/23734256
@@ -831,15 +832,15 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 康熙微服私访记,http://iptv.jxpan.vip:18888/aio/huya/11342418
 鹊刀门,http://43.138.0.72:35455/yy/1355344777
 新白娘子传奇,http://43.138.0.72:35455/yy/1354490667
-天龙八部,http://43.138.0.72:35455/yy/1351814644
 天龙八部,http://iptv.jxpan.vip:18888/aio/huya/20985816
+天龙八部,http://43.138.0.72:35455/yy/1351814644
 鹿鼎记,http://43.138.0.72:35455/yy/28265277
 笑傲江湖,http://iptv.jxpan.vip:18888/aio/huya/23865142
 笑傲江湖,http://iptv.jxpan.vip:18888/aio/huya/26355790
 新三国,http://iptv.jxpan.vip:18888/aio/huya/11352944
 铁齿铜牙纪晓岚,http://iptv.jxpan.vip:18888/aio/huya/11342396
-神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171
 神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/11352964
+神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171
 雪中悍刀行,http://43.138.0.72:35455/yy/1382660835
 隋唐英雄传,http://43.138.0.72:35455/yy/1352475619
 西游记后传,http://43.138.0.72:35455/yy/1353392400
@@ -848,13 +849,15 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 💓电影频道,#genre#
 CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC家庭影院,http://fn.tmde.top:35455/mgtv/644368373.m3u8
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
-CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8
+CHC动作电影,https://migu.188766.xyz/?migutoken=a0f702525b38e0aae5cf651de2bda974&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 CHC动作电影,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
+CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8
+CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
+CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
+CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
+CHC影迷电影,https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8
 超级电影,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://111.22.153.159:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
@@ -873,16 +876,16 @@ CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
 
 💓动画频道,#genre#
 卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=卡酷少儿
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
 哈哈炫动,http://111.22.153.159:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
-金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
+金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
 嘉佳卡通,http://8.138.7.223/tv/hot.php?id=64
 名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
 动漫秀场,http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb
@@ -926,8 +929,8 @@ DJ没理由,https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda
 ELEVEN体育1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
 ELEVEN体育2,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://111.22.153.159:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 
 
 ❤️与凤行,#genre#
