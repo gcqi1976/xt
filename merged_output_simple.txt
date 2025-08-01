@@ -2,28 +2,26 @@
 
 
 💓浙江频道,#genre#
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 
 
@@ -824,111 +822,25 @@ CCTV中学生,http://8.138.7.223/tv/migu.php?id=zxs
 
 
 💓电视剧频道,#genre#
-庆余年,http://iptv.jxpan.vip:18888/aio/huya/11352960
-倚天屠龙记,http://iptv.jxpan.vip:18888/aio/huya/11342403
-倚天屠龙记,http://iptv.jxpan.vip:18888/aio/huya/23734246
-三国演义,http://iptv.jxpan.vip:18888/aio/huya/11602081
-仙剑奇侠传,http://47.102.149.208:35455/yy/1382749903
-大时代,http://iptv.jxpan.vip:18888/aio/huya/23865161
-狂飙,http://47.102.149.208:35455/yy/1355142167
-欢乐颂,http://47.102.149.208:35455/yy/1382735624
-灌篮高手,http://47.102.149.208:35455/yy/1382735626
-大唐双龙传,http://iptv.jxpan.vip:18888/aio/huya/29465850
-亮剑,http://iptv.jxpan.vip:18888/aio/huya/30080238
-伪装者,http://47.102.149.208:35455/yy/1354936244
-使徒行者,http://iptv.jxpan.vip:18888/aio/huya/23734256
-洗冤录,http://iptv.jxpan.vip:18888/aio/huya/29465851
-延禧攻略,http://iptv.jxpan.vip:18888/aio/huya/26355864
-鉴证实录,http://iptv.jxpan.vip:18888/aio/huya/23903183
-西游记,http://iptv.jxpan.vip:18888/aio/huya/26355861
 封神榜,http://iptv.jxpan.vip:18888/aio/huya/29465849
-楚汉骄雄,http://iptv.jxpan.vip:18888/aio/huya/29465854
-笑看风云,http://iptv.jxpan.vip:18888/aio/huya/29465858
-新水浒传,http://iptv.jxpan.vip:18888/aio/huya/11342384
-康熙王朝,http://iptv.jxpan.vip:18888/aio/huya/11352940
-爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
-刑事侦缉档案,http://iptv.jxpan.vip:18888/aio/huya/29465856
-芈月传,http://iptv.jxpan.vip:18888/aio/huya/11352975
-如懿传,http://iptv.jxpan.vip:18888/aio/huya/29465868
-陀枪师姐,http://iptv.jxpan.vip:18888/aio/huya/29465857
-陈情令,http://iptv.jxpan.vip:18888/aio/huya/29465862
-士兵突击,http://iptv.jxpan.vip:18888/aio/huya/11342430
-寻秦记,http://iptv.jxpan.vip:18888/aio/huya/29465848
-射雕英雄传,http://iptv.jxpan.vip:18888/aio/huya/23824164
-父母爱情,http://47.102.149.208:35455/yy/1354926650
-康熙微服私访记,http://iptv.jxpan.vip:18888/aio/huya/11342418
-新白娘子传奇,http://47.102.149.208:35455/yy/1354490667
-天龙八部,http://iptv.jxpan.vip:18888/aio/huya/20985816
-天龙八部,http://47.102.149.208:35455/yy/1351814644
-鹿鼎记,http://47.102.149.208:35455/yy/28265277
-笑傲江湖,http://iptv.jxpan.vip:18888/aio/huya/23865142
-笑傲江湖,http://iptv.jxpan.vip:18888/aio/huya/26355790
-新三国,http://iptv.jxpan.vip:18888/aio/huya/11352944
-铁齿铜牙纪晓岚,http://iptv.jxpan.vip:18888/aio/huya/11342396
-神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171
-神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/11352964
-隋唐英雄传,http://47.102.149.208:35455/yy/1352475619
-西游记后传,http://47.102.149.208:35455/yy/1353392400
 
 
 💓电影频道,#genre#
-CHC家庭影院,http://atcq62.3950.cn:35455/mgtv/644368373.m3u8
 CHC家庭影院,http://fn.tmde.top:35455/mgtv/644368373.m3u8
-CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
-CHC动作电影,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-CHC动作电影,http://atcq62.3950.cn:35455/mgtv/644368714.m3u8
-CHC影迷电影,http://atcq62.3950.cn:35455/mgtv/952383261.m3u8
 CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8
 CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
-CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
-超级电影,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-黑莓电影,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
-黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 
 
 💓动画频道,#genre#
-卡酷少儿,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-哈哈炫动,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-哈哈炫动,http://111.22.153.159:35455/itv/5000000011000031123.m3u8?cdn=bestzb
-优漫卡通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
-金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
-金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
-嘉佳卡通,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
-名侦探柯南,http://iptv.jxpan.vip:18888/aio/huya/30080236
-动漫秀场,http://36.129.204.117:9003//hls/67/index.m3u8
-动漫秀场,http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-猫和老鼠,http://iptv.jxpan.vip:18888/aio/huya/11352879
-中华小当家,http://iptv.jxpan.vip:18888/aio/huya/11342413
-黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-黑莓动画,http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
-蜡笔小新,http://47.102.149.208:35455/bilibili/30837590
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
 
 💓戏曲频道,#genre#
-梨园频道,http://www.lizhinas.top:1009/rtp/239.252.220.179:5140
-东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-七彩戏剧,http://111.22.153.159:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 
 
 💓音乐频道,#genre#
@@ -942,19 +854,6 @@ DJ没理由,https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda
 
 
 💓体育频道,#genre#
-睛彩竞技,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
-睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-五星体育,http://148.135.93.213/live.php?id=五星体育
-劲爆体育,http://111.22.153.159:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-ELEVEN体育1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
-ELEVEN体育2,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 
 
