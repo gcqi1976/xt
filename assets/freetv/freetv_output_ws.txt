@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250910 07:53:29,url
+20250911 07:53:31,url
 
 
 freetv_ws,#genre#
@@ -10,6 +10,7 @@ freetv_ws,#genre#
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-41.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-5.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-51.m3u8
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-57.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-64.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-78.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-79.m3u8
@@ -33,6 +34,7 @@ freetv_ws,#genre#
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-95.m3u8
 东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-82.m3u8
 东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-91.m3u8
+云南卫视,https://stream1.freetv.fun/ipv6-yun-nan-wei-shi-49.m3u8
 云南卫视,https://stream1.freetv.fun/ipv6-yun-nan-wei-shi-53.m3u8
 云南卫视,https://stream1.freetv.fun/ipv6-yun-nan-wei-shi-9.m3u8
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-25.m3u8
@@ -73,6 +75,7 @@ freetv_ws,#genre#
 四川卫视,https://stream1.freetv.fun/ipv6-si-chuan-wei-shi-11.m3u8
 四川卫视,https://stream1.freetv.fun/ipv6-si-chuan-wei-shi-86.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-18.m3u8
+四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-19.ctv
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-20.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-27.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-39.ctv
@@ -84,8 +87,8 @@ freetv_ws,#genre#
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-93.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-97.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-20.m3u8
+大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-24.m3u8
-天津卫视,https://stream1.freetv.fun/ipv6-tian-jin-wei-shi-1.m3u8
 天津卫视,https://stream1.freetv.fun/ipv6-tian-jin-wei-shi-58.m3u8
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-17.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-24.m3u8
@@ -129,7 +132,6 @@ freetv_ws,#genre#
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-92.ctv
 山东教育卫视,https://stream1.freetv.fun/shan-dong-jiao-yu-wei-shi-6.ctv
 山西卫视,https://stream1.freetv.fun/ipv6-shan-xi-wei-shi-21.m3u8
-山西卫视,https://stream1.freetv.fun/ipv6-shan-xi-wei-shi-41.m3u8
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-90.m3u8
 广东卫视,https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-26.m3u8
 广东卫视,https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-41.m3u8
@@ -200,6 +202,7 @@ freetv_ws,#genre#
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-29.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-47.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-49.m3u8
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-56.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-59.m3u8
 河南卫视,https://stream1.freetv.fun/ipv6-he-nan-wei-shi-12.m3u8
 河南卫视,https://stream1.freetv.fun/ipv6-he-nan-wei-shi-28.m3u8
@@ -264,6 +267,7 @@ freetv_ws,#genre#
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-75.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-76.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-86.ctv
+湖南卫视,https://stream1.freetv.fun/ipv6-hu-nan-wei-shi-4.m3u8
 湖南卫视,https://stream1.freetv.fun/ipv6-hu-nan-wei-shi-85.m3u8
 甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-13.ctv
 甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-18.m3u8
