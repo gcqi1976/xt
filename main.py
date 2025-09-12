@@ -532,6 +532,8 @@ all_lines_simple =  ["更新时间,#genre#"] + ['\n'] +\
              ["💓戏曲频道,#genre#"] + sort_data(xq_dictionary,set(correct_name_data(corrections_name,xq_lines))) + ['\n'] + \
              ["💓音乐频道,#genre#"] + sorted(set(correct_name_data(corrections_name,mtv_lines))) + ['\n'] + \
              ["💓体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
+             ["❤️穿到八零再嫁,#genre#"] + read_txt_to_array('主频道/特供频道/♪穿到八零再嫁的她巨能赚.txt')  + ['\n'] + \
+             ["❤️雪中悍刀行,#genre#"] + read_txt_to_array('主频道/特供频道/♪雪中悍刀行.txt')  + ['\n'] + \  
              ["❤️与凤行,#genre#"] + read_txt_to_array('主频道/特供频道/♪与凤行.txt')  + ['\n'] + \
              ["❤️以家人之名,#genre#"] + read_txt_to_array('主频道/特供频道/♪以家人之名.txt')
 
@@ -761,4 +763,5 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
+
 
