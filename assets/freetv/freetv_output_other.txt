@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250930 07:53:24,url
+20251001 07:53:15,url
 
 
 freetv_other,#genre#
@@ -64,7 +64,6 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 [HD]明珠,https://stream1.freetv.fun/ming-zhu-6.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-12.ctv
 cetv1,https://stream1.freetv.fun/cetv1-5.ctv
-cetv1,https://stream1.freetv.fun/cetv1-6.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-4.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-7.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8
@@ -124,7 +123,6 @@ cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 人間衛視,https://stream1.freetv.fun/ren-jian-wei-shi-4.m3u8
 兰考新闻综合频道,https://stream1.freetv.fun/lan-kao-xin-wen-zong-he-1.m3u8
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
-刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-3.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-6.m3u8
