@@ -29,6 +29,26 @@ CCTV11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&a
 CCTV12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV1,https://httop.top/ysp-cctv1
+CCTV2,https://httop.top/ysp-cctv2
+CCTV3,https://httop.top/ysp-cctv3
+CCTV4,https://httop.top/ysp-cctv4
+CCTV5,https://httop.top/ysp-cctv5
+CCTV5+,https://httop.top/ysp-cctv5+
+CCTV6,https://httop.top/ysp-cctv6
+CCTV7,https://httop.top/ysp-cctv7
+CCTV8,https://httop.top/ysp-cctv8
+CCTV9,https://httop.top/ysp-cctv9
+CCTV10,https://httop.top/ysp-cctv10
+CCTV11,https://httop.top/ysp-cctv11
+CCTV12,https://httop.top/ysp-cctv12
+CCTV13,https://httop.top/ysp-cctv13
+CCTV16,https://httop.top/ysp-cctv14
+CCTV15,https://httop.top/ysp-cctv15
+CCTV16,https://httop.top/ysp-cctv16
+CCTV16(4K),https://httop.top/ysp-cctv16-4k
+CCTV17,https://httop.top/ysp-cctv17
+
 CCTV1,https://stream1.freetv.fun/cctv-1-17.ctv
 CCTV1,https://stream1.freetv.fun/cctv1-15.m3u8
 CCTV1,https://stream1.freetv.fun/cctv1-20.m3u8
