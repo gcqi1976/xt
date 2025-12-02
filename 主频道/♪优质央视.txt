@@ -1,3 +1,21 @@
+CCTV-1 综合,https://migu.188766.xyz/?migutoken=d272ec000e664fc5930a8b0daa053fee&id=CCTV1&type=yy
+CCTV-2 财经,https://migu.188766.xyz/?migutoken=33a18bb7c3b904125af816dcffd9f815&id=CCTV2&type=yy
+CCTV-3 综艺,https://migu.188766.xyz/?migutoken=59176b804c93097620f99200c2305db4&id=CCTV3&type=yy
+CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=bcf1554d71518c409382ec6e38592bfa&id=CCTV4&type=yy
+CCTV-5 体育,https://migu.188766.xyz/?migutoken=519b1f4895d621af0a2144ff4e6d08ea&id=CCTV5&type=yy
+CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=2fe96e036a05aaea16173bcb07976dc5&id=CCTV5p&type=yy
+CCTV-6 电影,https://migu.188766.xyz/?migutoken=7ecd75b8ff7abc27d31d41215bf9b5c9&id=CCTV6&type=yy
+CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=805323fc4aab20fec4c666a156fe138a&id=CCTV7&type=yy
+CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=c3747b9243041da9a20ea15d782ed758&id=CCTV8&type=yy
+CCTV-9 纪录,https://migu.188766.xyz/?migutoken=d0f58f798f4d59b76cf1ed911a20a47a&id=CCTV9&type=yy
+CCTV-10 科教,https://migu.188766.xyz/?migutoken=3c83b3513dfa45e4be049fd49ef32b95&id=CCTV10&type=yy
+CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=ee60d4bd4771b8f001e4007e09323f50&id=CCTV11&type=yy
+CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=8ada3017961841b3ca25a5ce25d8de23&id=CCTV12&type=yy
+CCTV-13 新闻,https://migu.188766.xyz/?migutoken=2093273a7cb2292e635909add2b2f46b&id=CCTV13&type=yy
+CCTV-14 少儿,https://migu.188766.xyz/?migutoken=b98e17c7834aede460ebed2c761676fe&id=CCTV14&type=yy
+CCTV-15 音乐,https://migu.188766.xyz/?migutoken=8facf4671db568382ccdac5d636ea73d&id=CCTV15&type=yy
+CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=1fa33afae4ae3f93c5b4764bea4d4b62&id=CCTV17&type=yy
+
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
