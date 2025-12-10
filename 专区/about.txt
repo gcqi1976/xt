@@ -1,10 +1,10 @@
-(宝)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-(箱)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-(箱)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
-🚨(广)Music Channel,https://cmc-ono.amagi.tv/playlist1080_p.m3u8
-🚨(告)周杰伦MV,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-🚨(勿)抖音神曲1,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2022%E6%8A%96%E9%9F%B3%E7%A5%9E%E6%9B%B245%E9%A6%96.mp4
-🚨(信)抖音神曲2,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2022.06%E6%AD%8C%E6%9B%B2%E7%BB%BC%E5%90%88.mp4
+MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
+音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
+Music Channel,https://cmc-ono.amagi.tv/playlist1080_p.m3u8
+周杰伦MV,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+抖音神曲1,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2022%E6%8A%96%E9%9F%B3%E7%A5%9E%E6%9B%B245%E9%A6%96.mp4
+抖音神曲2,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2022.06%E6%AD%8C%E6%9B%B2%E7%BB%BC%E5%90%88.mp4
 抖音综合,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/2021%E6%8A%96%E9%9F%B3%E7%BB%BC%E5%90%88.mp4
 程响歌曲1,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E7%A8%8B%E5%93%8D%E6%AD%8C%E6%9B%B2.mp4
 程响歌曲2,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E7%A8%8B%E5%93%8D%E6%AD%8C%E6%9B%B22.mp4
