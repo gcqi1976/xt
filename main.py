@@ -827,7 +827,7 @@ jsu_lines = jsu_lines + read_txt_to_array('手工区/江苏频道.txt')
 
 # 瘦身版
 #              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
-all_lines_simple =  ["更新时间,#genre#"] +read_txt_to_array('专区/about.txt')+ ['\n'] +\
+all_lines_simple =  ["💓AKTV🚀📶,#genre#"] + aktv_lines +read_txt_to_array('专区/about.txt')+ ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
@@ -847,7 +847,7 @@ all_lines_simple =  ["更新时间,#genre#"] +read_txt_to_array('专区/about.tx
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 # ["🧨2025春晚🧨,#genre#"] + read_txt_to_array('专区/2025春晚.txt') + ['\n'] + \
 #             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \             
-all_lines =  ["更新时间,#genre#"] +read_txt_to_array('专区/about.txt') + ['\n'] +\
+all_lines =  ["💓AKTV🚀📶,#genre#"] + aktv_lines +read_txt_to_array('专区/about.txt') + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
@@ -1103,6 +1103,7 @@ print(f"other行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
+
 
 
 
